@@ -1,0 +1,46 @@
+#aa {
+    color: red;
+}
+
+div {
+    background-color: rgb(32, 128, 0);
+    text-align: center;
+    font-size: xx-large;
+    
+
+}
+
+#bb {
+    color: yellow;
+}
+
+#cc {
+    color: rgba(230, 66, 6, 0.834);
+}
+
+#dd {
+    color: black
+}
+
+#div {
+    font-style: normal;
+    word-spacing: 15px;
+    font-size: x-small;
+    color: blue;
+}
+
+h1 {
+    background-color: lightseagreen;
+    color: red;
+    padding-left: 30px;
+    ;
+}
+
+p { width: 400px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+img {
+    margin-left: 50px;
+}
